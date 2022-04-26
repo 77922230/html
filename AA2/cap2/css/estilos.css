@@ -1,0 +1,30 @@
+/* selector{
+    propiedad:valor
+    propiedad:valor2
+    */
+
+h2{
+    color: blue;
+}
+
+.class
+
+.clasex{ /*selector de tipo: clase*/
+    border:1px solid black;
+}
+
+.titulo{
+    text-align: right;
+    color: blueviolet;
+}
+
+.titulo{
+    text-align: right;
+    color: rgb(20, 3, 36);
+}
+
+/*selecto de tipo: id*/
+
+#idsec{
+    border:1px solid black;
+}
